@@ -7,3 +7,9 @@ This password generator will generate a unique and random password. This is ache
 screenshot of deployed application
 ![Screenshot 2022-08-18 210609](https://user-images.githubusercontent.com/109640836/185540775-9854eee3-aa07-47ad-8b0d-a755e957af1c.png)
 
+[Paul Keldsen - Web Development](https://www.youtube.com/watch?v=x4HUaiazDes)
+
+[Web Dev Simplified](https://www.youtube.com/watch?v=iKo9pDKKHnc)
+
+##articles
+[Stackoverflow](https://stackoverflow.com/questions/1497481/javascript-password-generator)
